@@ -1,9 +1,9 @@
 👋 Hi, I’m @Anmol-arya
 💻 C++ Enthusiast |
- 🚀 Competitive Programming Learner
- 👨‍🎓 BTech @NIT Jamshedpur
- 📊 Exploring DSA & Projects
- 💡 Curious Mind
+ 🚀 Competitive Programming Learner |
+ 👨‍🎓 BTech @NIT Jamshedpur |
+ 📊 Exploring DSA & Projects |
+ 💡 Curious Mind |
 
 
 <!---
