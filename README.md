@@ -1,14 +1,42 @@
-👋 Hi, I’m @Anmol-Arya
-💻 C++ Enthusiast | 🚀 Competitive Programmer
-🧠 Aspiring AI & ML Engineer | 📊 Exploring DSA & Real-World Projects
-👨‍🎓 B.Tech @ NIT Jamshedpur
-💡 Curious Mind | Lifelong Learner | Tech Innovator
+# Hi 👋, I'm Anmol Arya Currently pursuing Electrical Engineering from National Institute of Technology Jamshedpur(NIT JSR).
 
-⚙️ Passionate about blending AI + Algorithms to build intelligent and impactful solutions.
-✨ Always open to learning, collaborating, and creating!
+💻 **DSA Enthusiast | 🤖 Machine Learning Learner | 🌐 Web Developer**
+
+---
+💻 Languages: C++, Python, JavaScript  
+- 🌐 Frontend: HTML, CSS  
+- 🤖 ML: NumPy, Pandas, Scikit-learn
+
+- 
+- 
+- 🥇 450+ DSA problems solved across platforms  
+- 📊 Consistent coding practice  
+- 🚀 Building strong foundation in ML & Web Dev  
 
 
-<!---
-Anmol-arya/Anmol-arya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 🚀 About Me
+
+- 🎓 Passionate about problem solving and building real-world projects  
+- 🔥 Solved **250+ problems on LeetCode**  
+- 💡 Solved **100+ problems on GeeksforGeeks**  
+- 🚀 Solved **100+ problems on CodeChef**  
+- 📊 **LeetCode Rating:** 1496  
+- 🍽️ **CodeChef Rating:** 1300  
+- 🌱 Currently learning **Machine Learning & Advanced DSA**  
+- 🎯 Goal: Become a **top software engineer + ML expert**
+
+## 🌐 Web Development
+
+- 💻 Technologies:
+  - HTML  
+  - CSS  
+  - JavaScript  
+
+- 📌 Projects:
+  - Banking intent classifier
+  - Rock vs Mine prediction
+  - Quiz game
+  - Portfolio Website (coming soon) 
+  - To-Do App  (coming soon)
+  
