@@ -4,7 +4,7 @@
 
 ---
 💻 Languages: C++, Python, JavaScript  
-- 🌐 Frontend: HTML, CSS  
+- 🌐 Frontend: HTML, CSS  ,javaScript,React.js
 - 🤖 ML: NumPy, Pandas, Scikit-learn
 
 - 
@@ -31,7 +31,8 @@
 - 💻 Technologies:
   - HTML  
   - CSS  
-  - JavaScript  
+  - JavaScript
+  - React.js 
 
 - 📌 Projects:
   - Banking intent classifier
