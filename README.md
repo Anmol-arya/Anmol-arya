@@ -39,5 +39,5 @@
   - Rock vs Mine prediction
   - Quiz game
   - Portfolio Website (coming soon) 
-  - To-Do App  (coming soon)
+  - Mode X -ecommerce shopping responsive website
   
